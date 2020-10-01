@@ -1,2 +1,2 @@
 # website
-python django project
+A project in python using framework Django.
